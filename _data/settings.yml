@@ -7,8 +7,8 @@ author:
 google-ID: 'UA-112060364-4'
 
 menu:
-# Uncomment to activate the menu looping function in the header.html file under _includes
-#- {name: 'About', url: 'about.html'}
+ #Uncomment to activate the menu looping function in the header.html file under _includes
+- {name: 'contributors', url: 'contributors.html'}
 
 social:
 # Uncomment to activate the social media icon looping function in the footer.html file under _includes
